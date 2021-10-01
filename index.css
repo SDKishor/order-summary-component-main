@@ -163,4 +163,8 @@ h4 span {
   .card_container {
     max-width: 500px;
   }
+  .container {
+    background-repeat: repeat-x;
+    background-position: top;
+  }
 }
