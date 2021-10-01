@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](./Screenshot/Screenshot 2021-10-01 231921.jpg)
-![](./Screenshot/Screenshot 2021-10-01 231941.jpg)
+<img src=".\Screenshot\Screenshot2021-10-01231921.jpg">
+<img src=".\Screenshot\Screenshot2021-10-01231941.jpg">
 
 ### Links
 
